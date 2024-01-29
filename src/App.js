@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>JAVIER LIM IS OFAT</h1>
         <p> This is extra text i added for fun</p>
       </header>
     </div>
