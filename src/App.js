@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p> This is extra text i added for fun</p>
       </header>
     </div>
   );
